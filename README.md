@@ -34,7 +34,7 @@ Space Shooter is a 2D arcade game developed using Python. Players control a spac
 
 ## Code Structure
 
-### `game.py`
+### `Space_Shooter_Game.py`
 Main script containing the game loop, event handling, and rendering logic.
 
 ### Classes:
