@@ -18,19 +18,18 @@ Space Shooter is a 2D arcade game developed using Python. Players control a spac
 - **Python**: Core language used for game development.
 - **Pygame**: A Python library utilized to create graphics, animations, and handle game mechanics.
 
+## Requirements
+
+- Python 3.x
+- Pygame library
+
 
 ## How to Play
 1. Launch the game by running `main.py`.
 2. Use the arrow keys to move your spaceship and the spacebar to shoot.
 3. Avoid enemy ships and obstacles while destroying as many enemies as possible.
-4. Aim for the highest score by progressing through levels.
-
-
-## Future Enhancements
-- **Power-Ups**: Add special abilities like shields or rapid-fire modes.
-- **Boss Battles**: Introduce challenging boss fights at the end of levels.
-- **Multiplayer Mode**: Enable players to compete or cooperate in real-time.
-- **Leaderboard**: Implement a high-score leaderboard to track top players.
+4. Avoid enemy attacks and keep an eye on your health bar!
+5. Aim for the highest score by progressing through levels.
 
 
 ## Code Structure
@@ -52,17 +51,13 @@ Main script containing the game loop, event handling, and rendering logic.
 - **Laser**  
   Manages laser properties, including movement, collision detection, and rendering.
 
-## How to Play
 
-1. Launch the game by running `game.py`.
-2. Control your ship using the arrow keys (or WASD) to move and the spacebar to shoot lasers.
-3. Destroy enemies to progress to the next level and earn points.
-4. Avoid enemy attacks and keep an eye on your health bar!
+## Future Enhancements
+- **Power-Ups**: Add special abilities like shields or rapid-fire modes.
+- **Boss Battles**: Introduce challenging boss fights at the end of levels.
+- **Multiplayer Mode**: Enable players to compete or cooperate in real-time.
+- **Leaderboard**: Implement a high-score leaderboard to track top players.
 
-## Requirements
-
-- Python 3.x
-- Pygame library
 
 -----
 
