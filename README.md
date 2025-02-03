@@ -33,10 +33,6 @@ Space Shooter is a 2D arcade game developed using Python. Players control a spac
 - **Leaderboard**: Implement a high-score leaderboard to track top players.
 
 
-# Space Shooter Game
-
-This is a Python-based space shooter game where players control a spaceship to defend against waves of enemy ships. The game features increasing difficulty as the player progresses through the levels. This project demonstrates my skills in game development using Python.
-
 ## Code Structure
 
 ### `game.py`
